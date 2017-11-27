@@ -5,7 +5,7 @@ require 'aspec/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'aspec'
-  spec.version       = JekyllAspec::VERSION
+  spec.version       = Aspec::VERSION
   spec.authors       = ['bsmith-n4']
   spec.email         = ['brian.smith@numberfour.eu']
 
